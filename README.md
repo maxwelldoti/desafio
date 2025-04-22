@@ -9,3 +9,23 @@ Na primeira aula, a Aline Antunes explicou sobre o bootcamp e as experiências q
 
 Já criei minha conta de estudante no Microsoft Azure, com $100 de crédito disponível ao inves de 200 porque não consegui validar meu cartão de credito, e ja configurei uma máquina virtual com 8 GB de RAM. O servidor está disponível para configuração, mas ainda não entendi exatamente o que posso fazer com essa máquina virtual. Estou documentando esse processo para o desafio e espero que esteja alinhado com as expectativas.
 
+🏗 IaaS (Infrastructure as a Service)
+Você aluga infraestrutura.
+
+Ex: servidores, redes, armazenamento.
+
+Você gerencia: sistema operacional, aplicativos, etc.
+
+Exemplo: Amazon EC2, Microsoft Azure VM
+
+🔧 Você cuida de quase tudo, só não do hardware.
+
+🧱 PaaS (Platform as a Service)
+Você aluga uma plataforma pronta para desenvolver.
+
+Já vem com sistema operacional, banco de dados, ferramentas de desenvolvimento.
+
+Você só foca no seu app/código.
+
+Exemplo: Heroku, Google App Engine
+
