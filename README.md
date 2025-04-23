@@ -29,3 +29,16 @@ Você só foca no seu app/código.
 
 Exemplo: Heroku, Google App Engine
 
+🚀 Você só se preocupa com o desenvolvimento, o resto é com o provedor.
+
+💻 SaaS (Software as a Service)
+Você usa um software pronto, pela internet.
+
+Não precisa instalar nada.
+
+É só entrar e usar.
+
+Exemplo: Gmail, Google Docs, Netflix
+
+☁ Você usa o serviço direto, sem se preocupar com nada técnico.
+
